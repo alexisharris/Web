@@ -64,6 +64,7 @@ li {
   border-radius: 7px;
   color: #021F59;
   box-shadow: 2px 2px black;
+  width: 50%;
 }
 
 #column2 {
@@ -75,6 +76,7 @@ li {
   border-radius: 7px;
   color: #021F59;
   box-shadow: 2px 2px black;
+  width: 50%;
 }
 
 #descriptionhead {
